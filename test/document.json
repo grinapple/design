@@ -1,0 +1,26 @@
+{
+  "_class": "document",
+  "do_objectID": "792313f0-6bc9-11e7-8c25-81d7c7fdb97d",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [],
+    "gradients": [],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {}
+    },
+    "images": []
+  },
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": []
+  },
+  "userInfo": {
+    "com.zeroheight.plugin": {
+      "itemsVersions": "{}"
+    }
+  }
+}

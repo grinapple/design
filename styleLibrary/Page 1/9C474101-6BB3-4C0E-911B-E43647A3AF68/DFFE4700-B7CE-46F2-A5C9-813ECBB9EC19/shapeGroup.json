@@ -1,0 +1,106 @@
+{
+  "_class": "shapeGroup",
+  "do_objectID": "DFFE4700-B7CE-46F2-A5C9-813ECBB9EC19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 128,
+    "width": 128,
+    "x": 147,
+    "y": 716
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Gray 200 - #F0F0F0",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "model_version": 0.1,
+          "aspectRatio": {
+            "multiplier": 125,
+            "enabled": 1,
+            "model_version": 0.1,
+            "modelID": "constraint_8925c86f-52a6-4625-91aa-2676fb4f78af",
+            "model_class": "ADModelConstraint",
+            "constant": 125
+          },
+          "modelID": "viewConstraints_2308361f-09d5-40c9-98cb-77b02ac0e526",
+          "model_class": "ADModelViewConstraints",
+          "automatic": 1
+        }
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "version": 1,
+        "originalID": "5E7208F0-4A7F-4135-9B2F-91B61C06CF8F"
+      }
+    }
+  },
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "isEnabled": false,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9411764705882353,
+          "green": 0.9411764705882353,
+          "red": 0.9411764705882353
+        },
+        "fillType": 0,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "F378B2E7-9052-4363-982B-9E91D3BCBEB4",
+      "class": "rectangle"
+    }
+  ],
+  "clippingMaskMode": 0,
+  "hasClippingMask": false,
+  "windingRule": 1
+}

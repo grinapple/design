@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "45C7D781-1E25-47CC-AE5C-0D9E122027DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 128,
+    "x": 0,
+    "y": 1164
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Color Swatch",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {}
+    }
+  },
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "4FEE7268-6089-4F5A-9502-667AA2B85F2C",
+      "class": "text"
+    },
+    {
+      "id": "1004EBE3-2512-4938-B492-C73EA4C71D96",
+      "class": "shapeGroup"
+    }
+  ]
+}

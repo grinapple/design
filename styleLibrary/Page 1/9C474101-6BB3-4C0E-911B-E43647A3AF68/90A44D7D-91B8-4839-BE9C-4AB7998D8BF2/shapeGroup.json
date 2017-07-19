@@ -1,0 +1,112 @@
+{
+  "_class": "shapeGroup",
+  "do_objectID": "90A44D7D-91B8-4839-BE9C-4AB7998D8BF2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 128,
+    "width": 128,
+    "x": 382,
+    "y": 1884
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "White - #FFFFFF Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "model_version": 0.1,
+          "aspectRatio": {
+            "model_class": "ADModelConstraint",
+            "enabled": 1,
+            "multiplier": 125,
+            "constant": 125,
+            "model_version": 0.1,
+            "modelID": "constraint_8925c86f-52a6-4625-91aa-2676fb4f78af"
+          },
+          "modelID": "viewConstraints_2308361f-09d5-40c9-98cb-77b02ac0e526",
+          "model_class": "ADModelViewConstraints",
+          "automatic": 1
+        }
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "version": 1,
+        "originalID": "5E7208F0-4A7F-4135-9B2F-91B61C06CF8F"
+      }
+    }
+  },
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9764705882352941,
+          "green": 0.9764705882352941,
+          "red": 0.9764705882352941
+        },
+        "fillType": 0,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "isEnabled": false,
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.27,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "524A350D-E59D-4BD8-967F-8FB6CE3FA784",
+      "class": "rectangle"
+    }
+  ],
+  "clippingMaskMode": 0,
+  "hasClippingMask": false,
+  "windingRule": 1
+}
